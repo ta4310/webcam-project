@@ -1,1 +1,1 @@
-A web app that opens the camera and takes a photo, converting it into grayscale. Can be used in ML and image processing applications
+Allows user to either take a photo or upload a photo.Once done, the image will be converted to a grayscale image. This webapp can be further developed to be used in ML or image processing applications.
